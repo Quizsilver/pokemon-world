@@ -2,3 +2,18 @@
 
 
 Hallo!
+
+
+![leuk plaatje] () pikachu.jpg
+
+
+
+
+
+
+
+
+
+
+
+
