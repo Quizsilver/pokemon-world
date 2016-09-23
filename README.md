@@ -4,7 +4,7 @@
 Hallo!
 
 
-![leuk plaatje] () pikachu.jpg
+![leuk plaatje](pikachu.jpg)
 
 
 
